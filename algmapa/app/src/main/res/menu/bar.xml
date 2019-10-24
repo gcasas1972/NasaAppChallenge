@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_home"
+        android:icon="@drawable/ic_action_location_found_dark"/>
+
+    <item
+        android:id="@+id/navigation_camera"
+        android:icon="@drawable/ic_action_camera_dark"/>
+
+    <item
+        android:id="@+id/navigation_weather"
+        android:icon="@drawable/ic_action_brightness_high_dark"/>
+
+    <item
+        android:id="@+id/navigation_user"
+        android:icon="@drawable/ic_action_location_found_dark"/>
+</menu>

@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">alg</string>
+
+    <string name="username_box">Username or e-mail</string>
+    <string name="password_box">Password</string>
+
+</resources>
