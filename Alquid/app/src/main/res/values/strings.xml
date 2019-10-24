@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">alquid</string>
+
+    <string name="username_box">Username or e-mail</string>
+    <string name="password_box">Password</string>
+
+    <string name="title_home">Home</string>
+    <string name="title_camera">Camera</string>
+    <string name="title_weather">Weather</string>
+    <string name="title_user">User</string>
+
+</resources>
