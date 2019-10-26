@@ -8,24 +8,24 @@
     <fragment
         android:id="@+id/navigation_home"
         android:name="com.qpa.alquid.HomeFragment"
-        android:label="fragment_home"
+        android:label="Map"
         tools:layout="@layout/fragment_home" />
 
     <fragment
         android:id="@+id/navigation_camera"
         android:name="com.qpa.alquid.CameraFragment"
-        android:label="fragment_camera"
+        android:label="Camera"
         tools:layout="@layout/fragment_camera" />
 
     <fragment
         android:id="@+id/navigation_weather"
         android:name="com.qpa.alquid.WeatherFragment"
-        android:label="fragment_weather"
+        android:label="Weather"
         tools:layout="@layout/fragment_weather" />
 
     <fragment
         android:id="@+id/navigation_user"
         android:name="com.qpa.alquid.UserFragment"
-        android:label="fragment_user"
+        android:label="Profile"
         tools:layout="@layout/fragment_user" />
 </navigation>
