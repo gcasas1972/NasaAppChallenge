@@ -31,4 +31,8 @@
         app:layout_constraintTop_toTopOf="parent"
         app:navGraph="@navigation/navbar" />
 
+    <include layout="@layout/runtime_permission" />
+
 </androidx.constraintlayout.widget.ConstraintLayout>
+
+
